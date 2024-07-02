@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "310637651324",
+    "firebase_url": "https://proteus-firebase-iot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "proteus-firebase-iot",
+    "storage_bucket": "proteus-firebase-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310637651324:android:dc0266b3c3503b0477f0f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_iot_proteus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAm5iBEWaI0cfDxt7ZYE043gN7I79gWOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
